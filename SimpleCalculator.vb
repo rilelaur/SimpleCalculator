@@ -1,8 +1,8 @@
 ﻿'Laura Riley
 'RCET0265
 'Spring 2021
-'Say My Name
-'
+'Simple Calculator
+'https://github.com/rilelaur/SimpleCalculator.git
 
 Option Explicit On
 Option Strict On
